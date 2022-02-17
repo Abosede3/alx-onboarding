@@ -1,0 +1,6 @@
+# set sum to 0
+# set num1 = num1 times num1
+# Set num2 = num2 times num2
+# sum = num1 + num2
+# print sum
+
